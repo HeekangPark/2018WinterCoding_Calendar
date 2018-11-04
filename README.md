@@ -6,6 +6,7 @@ This is an android application developed for submitting to [2018 Winter Coding](
 * Development Start : 2018.11.02. (FRI)
 * Development Complete : 2018.11.04. (SUN)
 * Current Version : v.1.0.
+* Android API : 28
 
 You can download .apk file at [here](https://github.com/HeekangPark/2018WinterCoding_Calendar/raw/master/app/release/app-release.apk).
 
