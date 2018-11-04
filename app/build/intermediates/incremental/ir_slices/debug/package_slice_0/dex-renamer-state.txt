@@ -1,0 +1,4 @@
+#Sun Nov 04 19:23:50 KST 2018
+base.0=D\:\\Clouds\\Dropbox\\Projects\\Calendar\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
